@@ -1,0 +1,23 @@
+.input-container{
+    margin-bottom: 2vh;
+}
+.my-input{
+    border: 0;
+    padding: 0.75rem;
+    margin: 0.5rem;
+    background: white;
+    box-shadow:4px 4px 10px rgba(241, 240, 240, 0.06);
+    font: 13px sans-serif;
+    width:200px;
+}
+
+.addbtn{
+    padding: 1.5vh 2vw;
+    background-color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.addbtn:hover{
+    background-color: rgb(196, 196, 196);
+}
